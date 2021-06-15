@@ -1,0 +1,54 @@
+img{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 0.25cm;
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+section{
+    display: block;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    display: block;
+    letter-spacing: 0.15cm;
+    text-transform: uppercase; 
+}
+
+.text-list{
+    font-style: italic;
+    font-weight: bold;  
+}
+
+.no-point{
+    list-style: none;
+}
+
+.text-ind{
+    margin-left: 80px;
+}
+
+.text-no-point{
+    font-weight: bold; 
+}
+
+footer{
+    background-color: #005677;
+    color:white;
+    font-weight: bold;
+}
+
+table{
+    margin:0 auto;
+    text-align: center;
+    width: 15%;
+}
