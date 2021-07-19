@@ -13,20 +13,21 @@ h1{
 
 section{
     display: block;
-    margin-left: 225px;
+    margin-left: 104px;
     margin-right: 225px;
 }
+
 h2{
     background-color: #C4C4C4;
     color: #005677;
     display: block;
-    letter-spacing: 0.15cm;
+    letter-spacing: 0.1cm;
     text-transform: uppercase; 
 }
 
 .text-list{
     font-style: italic;
-    font-weight: bold;  
+    font-weight: lighter;  
 }
 
 .no-point{
@@ -51,4 +52,8 @@ table{
     margin:0 auto;
     text-align: center;
     width: 15%;
+}
+
+a{
+    color:white
 }
