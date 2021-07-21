@@ -1,0 +1,60 @@
+header img {
+  display: block;
+  margin: auto;
+}
+
+header h1 {
+  background-color: #C4C4C4;
+  color: #005677;
+  letter-spacing: 0.25cm;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+main section {
+  display: block;
+  margin-left: 104px;
+  margin-right: 225px;
+}
+
+main section h2 {
+  background-color: #C4C4C4;
+  color: #005677;
+  display: block;
+  letter-spacing: 0.1cm;
+  text-transform: uppercase;
+}
+
+main section ul li.text-list {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+main section ul span.text-ind {
+  margin-left: 80px;
+}
+
+main section ul span.text-no-point {
+  font-weight: bold;
+}
+
+main section ul.no-point {
+  list-style: none;
+}
+
+footer {
+  background-color: #005677;
+  color: white;
+  font-weight: bold;
+}
+
+footer table {
+  margin: 0 auto;
+  text-align: center;
+  width: 15%;
+}
+
+footer table tr td a {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
